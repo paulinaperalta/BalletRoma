@@ -1,0 +1,29 @@
+html {
+    font-family: 'Urbanist', sans-serif;
+    font-size: 16px;
+    box-sizing: border-box;
+}
+
+
+body {
+    background-color: #e4e4e4;
+}
+
+.logo {
+    border-radius: 50%;
+}
+
+#map {
+    max-width: 100%;
+    min-width: 60%;
+}
+
+.bi {
+    vertical-align: -0.125em;
+    fill: currentColor;
+}
+
+.text-body-secondary {
+    --bs-text-opacity: 1;
+    color: var(--bs-secondary-color)!important;
+}
